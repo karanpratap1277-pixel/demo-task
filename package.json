@@ -1,0 +1,11 @@
+{
+  "name": "demo-task",
+  "version": "1.0.0",
+  "description": "Minimal backend service",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.22.3",
+    "mysql2": "^3.24.4"
+  }
+}
